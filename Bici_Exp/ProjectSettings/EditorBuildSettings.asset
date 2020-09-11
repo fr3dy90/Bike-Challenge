@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Project Bicycle/Scenes/Config.unity
+    guid: 6ff90a9b8a04395479a86768fa2a4cc3
+  - enabled: 1
+    path: Assets/Project Bicycle/Scenes/Track_01.unity
+    guid: 824cc65ea8fb9db499f308a8dbce5799
+  - enabled: 1
+    path: Assets/Project Bicycle/Scenes/Map_3.unity
+    guid: 0b8319681d793db43b2e8287d7463c71
+  - enabled: 1
+    path: Assets/Project Bicycle/Scenes/Map_1.unity
+    guid: 3067c9f7dc010024593e03c96d550d63
+  m_configObjects: {}

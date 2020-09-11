@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\death\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\death\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Bici_Exp.-691421782.00" t="ExcludeRecursive" />
+    <e p="C:\Users\death\Documents\Unity\Bici_Exp" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Project Bicycle" t="Include">
+          <e p="Scripts" t="Include">
+            <e p="Arduino" t="Include">
+              <e p="COM_Connection.cs" t="Include" />
+            </e>
+            <e p="Bezier" t="Include">
+              <e p="BezierCurve.cs" t="Include" />
+            </e>
+            <e p="Bicycle" t="Include">
+              <e p="BicycleController.cs" t="Include" />
+              <e p="BicycleStabilizer.cs" t="Include" />
+            </e>
+            <e p="Camera" t="Include">
+              <e p="DriftCamera.cs" t="Include" />
+            </e>
+            <e p="ConfigMenu" t="Include">
+              <e p="ButtonCallibrate.cs" t="Include" />
+              <e p="ButtonExit.cs" t="Include" />
+              <e p="ButtonSettings.cs" t="Include" />
+              <e p="Calibrate.cs" t="Include" />
+              <e p="DropDownItem.cs" t="Include" />
+              <e p="DropDownMenu.cs" t="Include" />
+            </e>
+            <e p="Debug" t="Include">
+              <e p="BicycleInfo.cs" t="Include" />
+            </e>
+            <e p="Fade" t="Include">
+              <e p="FadeController.cs" t="Include" />
+            </e>
+            <e p="Managers" t="Include">
+              <e p="GlobalConfig.cs" t="Include" />
+              <e p="ManagerConfig.cs" t="Include" />
+              <e p="ManagerInput.cs" t="Include" />
+              <e p="ManagerMenu.cs" t="Include" />
+              <e p="ManagerScenes.cs" t="Include" />
+              <e p="SceneController.cs" t="Include" />
+            </e>
+            <e p="Menu" t="Include">
+              <e p="MenuOption.cs" t="Include" />
+            </e>
+            <e p="RespawnSystem" t="Include">
+              <e p="RespawnSystem.cs" t="Include" />
+              <e p="SensorDetect.cs" t="Include" />
+              <e p="SpawnPoint.cs" t="Include" />
+            </e>
+            <e p="Tracker" t="Include">
+              <e p="GetTrackerID.cs" t="Include" />
+              <e p="TrackerRotation.cs" t="Include" />
+            </e>
+            <e p="WLogo" t="Include">
+              <e p="AutoShotDown.cs" t="Include" />
+              <e p="PinPongAndRotate.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="SpaceSkies Free" t="Include">
+          <e p="Demo" t="Include">
+            <e p="Scripts" t="Include">
+              <e p="LookCamera.cs" t="Include" />
+              <e p="SkyboxChanger.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Bici_Exp.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
